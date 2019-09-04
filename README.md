@@ -1,0 +1,2 @@
+# Space-Junk
+2016 MCM Problem B Space Junk The amount of small debris in orbit around earth has been a growing concern. It is estimated that more than 500,000 pieces of space debris, also called orbital debris, are currently being tracked as potential hazards to space craft. The issue itself became more widely discussed in the news media when the Russian satellite Kosmos-2251 and the USA satellite Iridium-33 collided on 10 February, 2009.
